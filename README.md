@@ -50,7 +50,8 @@ Key Business Questions Solved
 
 
 Zomato_Entity Relationship Diagram
-![Zomato_Dashboard](Zomato_Entity Relationship Diagram)
+
+![Zomato_Entity Relationship Diagram](https://github.com/user-attachments/assets/350c0c43-5dc9-4686-8aef-8f3832446d70)
 
 
 
