@@ -50,11 +50,11 @@ Key Business Questions Solved
 
 
 Zomato_Entity Relationship Diagram
-![Zomato_Entity Relationship Diagram](https://github.com/user-attachments/assets/0b18e19b-eb35-44be-9fbc-b4f47945c0ae)
-
+![Zomato_Entity Relationship Diagram](![Zomato_Entity Relationship Diagram](https://github.com/user-attachments/assets/c96aaf16-4d17-4e2e-9e12-51708c344d3b)
+)
 
 Zomato_Dashboard
 
-![Zomato_Dashboard](https://github.com/user-attachments/assets/de2547cf-1d01-4b22-a881-4a29aa25b30e)
+
 
 
